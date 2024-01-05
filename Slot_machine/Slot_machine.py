@@ -18,11 +18,11 @@ symbol_count = {
 }
 
 symbol_value = {
-    "A": 5,     # ~ Symbol "A" has a value of 2
-    "B": 4.5,   # ~ Symbol "B" has a value of 1.8
-    "C": 4,     # ~ Symbol "C" has a value of 1.6
-    "D": 3.5,   # ~ Symbol "D" has a value of 1.4
-    "E": 3,     # ~ Symbol "E" has a value of 1
+    "A": 5,     # ~ Symbol "A" has a value of 5
+    "B": 4.5,   # ~ Symbol "B" has a value of 4.5
+    "C": 4,     # ~ Symbol "C" has a value of 4
+    "D": 3.5,   # ~ Symbol "D" has a value of 3.5
+    "E": 3,     # ~ Symbol "E" has a value of 3
     "*": 2,     # ~ Scater '*' = winnings x2
     "@": 2      # ~ Scater '@' = winnings x2
 }
